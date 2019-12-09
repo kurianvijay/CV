@@ -28,7 +28,7 @@ A wild Facebook clone that introduced me to Rails, SASS and Bootstrap
   | **Project ** | **Description**       |**Technologies** | **Testing**      |
   | **(Code)** 	 |		                   |**Used**	       |**Technologies**  |
   | -------------|:---------------------:| ---------       |-----------------:|
-  | [Sportsmatch-API] https://github.com/kurianvijay/sportsmatch_api    | right-aligned         | $1600           |	                |
+  |[Sportsmatch-API]:https://github.com/kurianvijay/sportsmatch_api    | right-aligned         | $1600           |	                |
   | [col 2 is]     | centered              |   $12           |	                |
   | [zebra stripes]| are neat              |    $1           |	                |
 	| [Thermostat]
