@@ -26,7 +26,7 @@ A wild Facebook clone that introduced me to Rails, SASS and Bootstrap
   | **Project ** | **Description**       |**Technologies** | **Testing**      |
   | **(Code)** 	 |		                   |**Used**	       |**Technologies**  |
   | -------------|:---------------------:| ---------       |-----------------:|
-  |[Sportsmatch-API]:https://github.com/kurianvijay/sportsmatch_api    | right-aligned         | $1600           |	                |
+  |[Sportsmatch-API]:(https://github.com/kurianvijay/sportsmatch_api)   | right-aligned         | $1600           |	                |
   | [col 2 is]     | centered              |   $12           |	                |
   | [zebra stripes]| are neat              |    $1           |	                |
 	| [Thermostat]
@@ -60,7 +60,7 @@ During the Makers Academy course, I have proactively sought out new challenges, 
 
 ## Education
 
-#### Makers Academy (September 2019 to December 2019)
+#### Makers Academy (August 2019 to December 2019)
 
 Ruby, JavaScript, React, Python, Rails, SQL/Postgres
 HTML & CSS
@@ -88,7 +88,7 @@ Institute of Hotel Management, Goa, India
 ## Experience
 
 **Edge360** (April 2015 to March 2019)    
-*Your job title*
+**
 - Any experience relevent to software development
 
 **Company Name** (start_date to end_date)   
