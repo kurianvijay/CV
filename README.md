@@ -93,7 +93,7 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Experience
 
 **Company Name** (start_date to end_date)    
-*Your job title*  
+*Your job title*
 - Any experience relevent to software development
 
 **Company Name** (start_date to end_date)   
