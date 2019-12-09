@@ -25,12 +25,12 @@ AceBook
 A wild Facebook clone that introduced me to Rails, SASS and Bootstrap
 	Rails, HTML, CSS, Bootstrap, Travis CI, Heroku	Rspec, Capybara
 
-  | **Tables**    | **Are**       | **Cool** | **Technologies** |
-  |   		        |		            |	         | **Used**	        |	
-  | ------------- |:-------------:| ---------|---------------:  |
-  | col 3 is      | right-aligned | $1600    |	                |
-  | col 2 is      | centered      |   $12    |	                |
-  | zebra stripes | are neat      |    $1    |	                |
+  | **Project ** | **Description**       |**Technologies** | **Testing**      |
+  | **(Code)** 	 |		                   |**Used**	       |**Technologies**  |
+  | -------------|:---------------------:| ---------       |-----------------:|
+  | col 3 is     | right-aligned         | $1600           |	                |
+  | col 2 is     | centered              |   $12           |	                |
+  | zebra stripes| are neat              |    $1           |	                |
 
 
 
