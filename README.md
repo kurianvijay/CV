@@ -4,16 +4,17 @@ I am a dynamic and ambitious Full Stack Junior Developer, keen to enter the worl
 
 Throughout my experience at Makers Academy, I have understood the importance of best coding practices and this is my biggest priority in looking for my next role. I would love to work in a committed and supportive team, where these practices are adhered to.
 
-In the past 9 years, I have worked at Heathorw Airport as part of the Security Training and Compliance team and while working there full time, I co-founded https://edge360.co.uk in 2015 and left Heathrow in 2017 to pursue it fully. Edge360 is a full service digital advertising and app development firm and in 2017 our turnover reached £3 million. I sold my share of the business in 2019 as I felt it was the right time to move on. I found myself intensly interested in the app development side of the business than business delivery/product management which was my remit.
+In the past 9 years, I have worked at Heathorw Airport as part of the Training and Compliance team and while working there full time, I co-founded https://edge360.co.uk in 2015 and left Heathrow in 2017 to pursue it fully. Edge360 is a full service digital advertising and app development firm and in 2017 our turnover reached £3 million. Part of my role at Edge360 was to manage development of apps for either external of internal clients and when I realised I enjoyed this aspect of my day far more than anything else, I knew it was time for a career change, and decided to sell my share of the company in 2019 and apply for Makers Academy coding bootcamp.
 
 Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python, Bootstrap, PostgreSQL, Agile ways of working & pair programming
 
 
-Project
-(Code)
-	Description
-	Technologies Used
-	Testing Technologies
+## Projects
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [SportsMatch - Front End](https://github.com/domtunstill/sportsmatch_react) [SportsMatch - Back End](https://github.com/domtunstill/sportsmatch_api) | The final team project for Makers. The app actually consists of two seperate apps, a Flask - Python API backend and a React - Javascript frontend | React, Javascript, Flask, Python, Pytest/Cypress, Heroku, Travis CI, Circle CI|
+| [Acebook](https://github.com/domtunstill/acebook-facebuzz) |The Acebook platform is an engineering project working with a client mirroring some functionality of Facebook. The project is built in Ruby on Rails project |Rails, RSpec/Capybara, Postgres, Heroku, Travis CI|
+|[MakersBnB](https://github.com/domtunstill/makersBnB) | The MakersBnB platform project working mirroring some functionality of AirBnB. The project is built in Ruby on Rails project |Ruby, Sinatra, RSpec, Javascript, Jasmine, Heroku, Travis CI |
 
 SportsMatch-API
 API backend made as the final project at Makers	Python, Flask, SQLAlchemy	Pytest
@@ -39,7 +40,7 @@ A wild Facebook clone that introduced me to Rails, SASS and Bootstrap
 
 Having worked on a variety of projects at Makers Academy, setting objectives and focusing on code architecture and design, enabled me to work towards achieving projects' goals in the most efficient and effective way. Proof are the team projects built, such as Acebook.
 
-Being introduced to project management in the last 4 years, I really enjoyed bringing projects to a successful end with maximum efficiency. I enjoyed leading and developing small to large teams as well as solving complex and strategic problems. By managing a team of 6 people in my first role as a project manager, I achieved maximum performance and finished the project 4% under the expenditure budget, by making the best use of time and resources.
+Being introduced to project management in the last 4 years, I really enjoyed bringing projects to a successful end with maximum efficiency. I enjoyed leading and developing small teams as well as solving complex and strategic problems. By managing a team of 6 people in my first role as a project manager, I achieved maximum performance and finished the project 4% under the expenditure budget, by making the best use of time and resources.
 
 #### Communication
 
