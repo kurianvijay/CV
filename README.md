@@ -12,9 +12,9 @@ Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python
 ## Projects
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [SportsMatch - Front End](https://github.com/domtunstill/sportsmatch_react) [SportsMatch - Back End](https://github.com/domtunstill/sportsmatch_api) | The final team project for Makers. The app actually consists of two seperate apps, a Flask - Python API backend and a React - Javascript frontend | `React` `Javascript` `Flask` `Python` `Pytest/Cypress` `Heroku` `Travis CI` `Circle CI`|
-| [Acebook](https://github.com/domtunstill/acebook-facebuzz) |The Acebook platform is an engineering project working with a client mirroring some functionality of Facebook. The project is built in Ruby on Rails project |Rails, RSpec/Capybara, Postgres, Heroku, Travis CI|
-|[MakersBnB](https://github.com/domtunstill/makersBnB) | The MakersBnB platform project working mirroring some functionality of AirBnB. The project is built in Ruby on Rails project |Ruby, Sinatra, RSpec, Javascript, Jasmine, Heroku, Travis CI |
+| [SportsMatch - Front End](https://github.com/kurianvijay/sportsmatch_react) [SportsMatch - Back End](https://github.com/kurianvijay/sportsmatch_api) | The final team project for Makers. The app actually consists of two seperate apps, a Flask - Python API backend and a React - Javascript frontend | `React` `Javascript` `Flask` `Python` `Pytest/Cypress` `Heroku` `Travis CI` `Circle CI`|
+| [Acebook](https://github.com/kurianvijay/acebook-facebuzz) |The Acebook platform is an engineering project working with a client mirroring some functionality of Facebook. The project is built in Ruby on Rails project |`Rails` `RSpec/Capybara` `Postgres` `Heroku` `Travis CI`|
+|[MakersBnB](https://github.com/domtunstill/makersBnB) | The MakersBnB platform project working mirroring some functionality of AirBnB. The project is built in Ruby on Rails project |`Ruby` `Sinatra` `RSpec` `Javascript` `Jasmine` `Heroku` `Travis CI`|
 
 SportsMatch-API
 API backend made as the final project at Makers	Python, Flask, SQLAlchemy	Pytest
