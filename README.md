@@ -8,7 +8,6 @@
   
   <div align="center">
 
-[About_me](#About me) |
 [Projects](#Projects) |
 [Skills](#Skills) |
 [Education](#Education) |
@@ -17,13 +16,21 @@
 
 </div>
 
-## About me
-
 I am a dynamic and ambitious Full Stack Junior Developer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
 Throughout my experience at Makers Academy, I have understood the importance of best coding practices and this is my biggest priority in looking for my next role. I would love to work in a committed and supportive team, where these practices are adhered to.
 
-In the past 9 years, I have worked at Heathorw Airport as part of the Training and Compliance team and while working there full time, I co-founded https://edge360.co.uk in 2015 and left Heathrow in 2017 to pursue it fully. Edge360 is a full service digital advertising and app development firm and in April 2018 our turnover crossed £3 million. Part of my role at Edge360 was to manage development of apps for either external or internal clients. When I realised I enjoyed this aspect of my day far more than anything else, I knew it was time for a career change, and decided to sell my share of the company in 2019 and apply for the Makers Academy coding bootcamp.
+In the last 10 years I've had 2 jobs and I started the second job midway through my first job. To clarify I co-founded Edge360(www.edge360.co.uk), a digital mobile ad-serving company, in 2015 along with 2 of my friends. I did this while working full time at the Heathrow airport T5 training department where we, a 17 strong team, were in charge of training just over 1500 members of staff.
+
+Edge360 branched out into app development about 18 months after we started as we wanted to establish a  dedicated pipeline for some of the ad campaigns we managed. All 3 of us started  as part time employees and in 2016 one of the co-founders went into it full time and I took the leap in March 2017. In April 2018 our turnover crossed GBP 3 million and we had expanded our team to 13 people however I felt that we as a company were too focused on new business generation at the cost customer retention and sustainability. In Janusry 2019, after having discussed it with my partners and my wife, I decided to sell most of the shares I had in the company and step back from an operational role at Edge360.
+
+#### Why I want to be a developer?
+
+One of my main areas of responsibility at Edge360 was product management and monetisation which meant most of my time was spent with the development team. My job was to clarify the requirements of the business around various functionalities that the team was being asked to implement for the apps i.e clarifying user stories. 
+A lot of times I found myself more drawn to the code and how it was working and I sent quite a few questions on the code itself, at times perhaps unnecessarily, to my developers. I loved the problem solving aspect of coding and how one problem could have multiple solutions. I started to attempt coding challenges on code-wars and courses on thefreecodecamp.com in my already limited free time and found that I enjoyed them immensely. With support from my wife, a developer herself, I decided to take the plunge in early 2019 and haven't looked back since.
+
+I have always enjoyed building products that add value to a business or customer experience and now I believe I have a chance to  be involved in this again from a different perspective, that of the developer, and I am immensely looking forward to that. 
+
 
 Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python, Bootstrap, PostgreSQL, Agile ways of working & pair programming
 
