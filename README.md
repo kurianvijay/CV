@@ -35,24 +35,6 @@ Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python
 | [Acebook](https://github.com/kurianvijay/acebook-facebuzz) |The Acebook platform is an engineering project working with a client mirroring some functionality of Facebook. The project is built in Ruby on Rails project |`Rails` `RSpec/Capybara` `Postgres` `Heroku` `Travis CI`|
 |[MakersBnB](https://github.com/domtunstill/makersBnB) | The MakersBnB platform project working mirroring some functionality of AirBnB. The project is built in Ruby on Rails project |`Ruby` `Sinatra` `RSpec` `Javascript` `Jasmine` `Heroku` `Travis CI`|
 
-SportsMatch-API
-API backend made as the final project at Makers	Python, Flask, SQLAlchemy	Pytest
-SportsMatch-frontend
-Frontend made to complete the backend API for final project	React, HTML, CSS, Circle CI	Cypress
-AceBook
-A wild Facebook clone that introduced me to Rails, SASS and Bootstrap
-	Rails, HTML, CSS, Bootstrap, Travis CI, Heroku	Rspec, Capybara
-
-  | **Project ** | **Description**       |**Technologies** | **Testing**      |
-  | **(Code)** 	 |		                   |**Used**	       |**Technologies**  |
-  | -------------|:---------------------:| ---------       |-----------------:|
-  |[Sportsmatch-API]:(https://github.com/kurianvijay/sportsmatch_api)   | right-aligned         | $1600           |	                |
-  | [col 2 is]     | centered              |   $12           |	                |
-  | [zebra stripes]| are neat              |    $1           |	                |
-	| [Thermostat]
-
-
-
 ## Skills
 
 #### Strategic planning
