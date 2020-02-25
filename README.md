@@ -67,8 +67,6 @@ During the Makers Academy course, I have proactively sought out new challenges, 
 
 ## Education
 
-#### Makers Academy (August 2019 to December 2019)
-
 **[Makers Academy](https://www.makers.tech)** (August &mdash; December 2019)   
 **Software Development**
 
@@ -79,18 +77,17 @@ During the Makers Academy course, I have proactively sought out new challenges, 
 - `Ruby`, `Rails`, `JavaScript`, `React`, `JQuery`
 - `RSpec`, `Capybara`, `Jasmine`, `Jest`, `Enzyme`, `Cypress` test frameworks
 
-#### Master of Arts in Business Management   September 2007 – January 2009
-Kingston University, London
+**[Kingston University](https://www.kingston.ac.uk/)** (September 2007 &mdash; January 2009)   
+**MA in Business Management** 2:1
 
 - 8 week on‐site consultancy  project with The Montague on the Gardens Hotel, Bloomsbury; part of the Red Carnations Hotel Group resulting in efficiency savings of 5% during the off-peak season
-- 2:1
 - Dissertation: The Gap in Consultant Perceptions and Client Expectations in Management Consulting
 
-#### Bachelor of Science (Honours), Hospitality and Hotel Administration           May 2000 – April 2003
-Institute of Hotel Management, Goa, India
+**[IHM Goa](https://ihmgoa.gov.in/)** (March 2000 &mdash; April 2003)   
+**BSc(Honours), Hospitality and Hotel Management**           
 
 - Co‐founder and Vice President, Leadership and Marketing Club, IHM Goa
-- 2:1
+
 
 ## Experience
 
@@ -104,4 +101,7 @@ Institute of Hotel Management, Goa, India
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I am a keen badminton doubles player having played upto senior level at University.
+Table Tennis is another passion of mine.
+Meditation - I have started practicing meditation since my time in Makers and I find a simple 10 minutes daily session refreshes me. 
+
