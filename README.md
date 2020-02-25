@@ -6,12 +6,23 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/vijay-k-690aa1110/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" hspace="20" height="42" width="42"></a>
   </p>
+  
+  <div align="center">
+
+[About me](#About me) |
+[Skills](#Skills) |
+[Projects](#Projects) |
+[Education](#Education) |
+[Experience](#Experience) |
+[Hobbies](#Hobbies)
+
+</div>
 
 I am a dynamic and ambitious Full Stack Junior Developer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
 Throughout my experience at Makers Academy, I have understood the importance of best coding practices and this is my biggest priority in looking for my next role. I would love to work in a committed and supportive team, where these practices are adhered to.
 
-In the past 9 years, I have worked at Heathorw Airport as part of the Training and Compliance team and while working there full time, I co-founded https://edge360.co.uk in 2015 and left Heathrow in 2017 to pursue it fully. Edge360 is a full service digital advertising and app development firm and in 2017 our turnover reached £3 million. Part of my role at Edge360 was to manage development of apps for either external or internal clients. When I realised I enjoyed this aspect of my day far more than anything else, I knew it was time for a career change, and decided to sell my share of the company in 2019 and apply for the Makers Academy coding bootcamp.
+In the past 9 years, I have worked at Heathorw Airport as part of the Training and Compliance team and while working there full time, I co-founded https://edge360.co.uk in 2015 and left Heathrow in 2017 to pursue it fully. Edge360 is a full service digital advertising and app development firm and in April 2018 our turnover crossed £3 million. Part of my role at Edge360 was to manage development of apps for either external or internal clients. When I realised I enjoyed this aspect of my day far more than anything else, I knew it was time for a career change, and decided to sell my share of the company in 2019 and apply for the Makers Academy coding bootcamp.
 
 Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python, Bootstrap, PostgreSQL, Agile ways of working & pair programming
 
