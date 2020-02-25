@@ -69,15 +69,15 @@ During the Makers Academy course, I have proactively sought out new challenges, 
 
 #### Makers Academy (August 2019 to December 2019)
 
-Ruby, JavaScript, React, Python, Rails, SQL/Postgres
-HTML & CSS
-RSpec, Jasmine, Capybara, Jest
-Travis CI & Heroku
-OOP & TDD
-Git workflow
-Code reviews
-Problem Solving
-Agile ways of working & pair programming
+**[Makers Academy](https://www.makers.tech)** (August &mdash; December 2019)   
+**Software Development**
+
+- Object-oriented programming
+- Test-driven development (TDD)
+- Model-View-Controller (MVC) architecture
+- Agile/XP practices
+- `Ruby`, `Rails`, `JavaScript`, `React`, `JQuery`
+- `RSpec`, `Capybara`, `Jasmine`, `Jest`, `Enzyme`, `Cypress` test frameworks
 
 #### Master of Arts in Business Management   September 2007 – January 2009
 Kingston University, London
