@@ -81,34 +81,29 @@ During the Makers Academy course, I have proactively sought out new challenges, 
 **MA in Business Management** 2:1
 
 - 8 week on‐site consultancy  project with The Montague on the Gardens Hotel, Bloomsbury; part of the Red Carnations Hotel Group resulting in efficiency savings of 5% during the off-peak season
-- Dissertation: The Gap in Consultant Perceptions and Client Expectations in Management Consulting
 
 **[IHM Goa](https://ihmgoa.gov.in/)** (March 2000 &mdash; April 2003)   
 **BSc(Honours), Hospitality and Hotel Management**           
 
 - Co‐founder and Vice President, Leadership and Marketing Club, IHM Goa
 
-
 ## Experience
 
 **[Edge360 Ltd](https://edge360.co.uk/)** (April 2015 &mdash; January 2019)   
-**Monetisation Manager** 
+**Product Owner and Monetisation Manager** 
 
 I was responsible for the delivery of all ad-campaigns from end to end. Making sure KPIs from the clients were met and getting client feedback on adjuting the eCPA. To facilitate this we decided to create apps that would be able to target the audiences that we were looking for specifically. 
 
 As part of my role, I acted as the Product Owner for 2 apps that we released AppsFarm in `Android` and GlobalEduOnline on `iOS Swift`. I was responsible for translating business requirments into user stories and trouble shooting the app from a business perpective and bringing bugs that came up from test launches back to development. I was involved in manual testing of the apps as well. 
 
+**[Heathrow Airport Ltd](https://www.heathrow.com/company)** (January 2011 &mdash; March 2017)   
+**Training and Compliance Officer**
 
-
-
-
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+- Delivery and development of training packages on aviation security management for Airport Security Managers and Airport Managers
 
 ## Hobbies
 
 I am a keen badminton doubles player having played upto senior level at University.
 Table Tennis is another passion of mine.
-Meditation - I have started practicing meditation since my time in Makers and I find a simple 10 minutes daily session refreshes me. 
+Meditation - I have started practicing meditation since my time in Makers and I find a simple 10 minute daily session refreshes me. 
 
