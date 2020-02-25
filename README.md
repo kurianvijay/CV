@@ -4,7 +4,7 @@
 <h1 align="center"> Vijay Kurian </h1>
 
   <p align="center">
-    <a href="www.linkedin.com/in/vijay-k-690aa1110"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" hspace="20" height="42" width="42"></a>
+    <a href="https://www.linkedin.com/in/vijay-k-690aa1110/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" hspace="20" height="42" width="42"></a>
   </p>
 
 I am a dynamic and ambitious Full Stack Junior Developer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
