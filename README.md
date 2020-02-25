@@ -1,4 +1,3 @@
-## Vijay Kurian
 <a name="top"></a>
 
 <h1 align="center"> Vijay Kurian </h1>
@@ -10,13 +9,15 @@
   <div align="center">
 
 [About_me](#About me) |
-[Skills](#Skills) |
 [Projects](#Projects) |
+[Skills](#Skills) |
 [Education](#Education) |
 [Experience](#Experience) |
 [Hobbies](#Hobbies)
 
 </div>
+
+## About me
 
 I am a dynamic and ambitious Full Stack Junior Developer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
